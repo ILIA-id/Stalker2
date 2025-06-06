@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: darkolivegreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+    
+}
+.erer{
+    width: 1000px;
+    height: 600px;
+}
+footer img{
+    width: 970px;    
+}
+p{
+    font-size: 20px;
+    background-color: darkblue;
+    text-align: center;
+    width: 400px;
+}
+li{
+    list-style: url(https://avatars.mds.yandex.net/i?id=1408d301c59ab2f665f5e497032fe283_sr-4079503-images-thumbs&n=13);
+    max-width: 1600px;
+}
